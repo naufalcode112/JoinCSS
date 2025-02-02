@@ -1,0 +1,14 @@
+{
+  "name": "joincss",
+  "version": "2.1.1",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "sass custom.scss custom/custom.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "JoinCSS is a best CSS framework",
+  "Author": "Naufalcode112/FEZZAN"
+}
