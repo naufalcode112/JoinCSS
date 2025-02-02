@@ -10,4 +10,8 @@ kamu bisa menggunakan kelas dan utilitas dari joincss yang memiliki banyak varia
 ## Kustomisasi
 jika anda ingin kustomisasi kelas,anda bisa langsung ke file `custom.scss` dan jalankan "npm run convert"
 
+## Docs
+penggunaannya kurang lebih sama seperti framework css pada umumnya misalnya bg-primary-500,p-25,mb-12 dll.
+```<div class="bg-indigo-500 p-3 mt-2 j-center flex"></div>```
+
 github: naufalcode112 facebook: Fezzan/bisa dicari digrub IMPHNEN biar lebih mudah. yt: belom ada
