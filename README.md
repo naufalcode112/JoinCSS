@@ -8,9 +8,6 @@ joincss adalah kerangka kerja css yang membantu anda dalam stylish untuk pembuat
 ## Kelas dan utilitas
 kamu bisa menggunakan kelas dan utilitas dari joincss yang memiliki banyak varian.misalnya bg-blue-100,text-indigo-100,p-15 dll.
 
-## Kustomisasi
-jika anda ingin kustomisasi kelas,anda bisa langsung ke file `custom.scss` dan jalankan "npm run convert"
-
 ## Docs
 penggunaannya kurang lebih sama seperti framework css pada umumnya misalnya bg-primary-500,p-25,mb-12 dll.
 ```
